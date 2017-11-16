@@ -1,0 +1,17 @@
+newrelic:
+  policy: MCP Order Intake
+  refreshrate: 10000
+
+gitlab:
+  groupId: 107
+  refreshrate: 10000
+
+slideshow:
+  youtube:
+    - ddFvjfvPnqk #earth
+    - qrgX5W1NiGQ #puffins
+    - 1tyxTfhlDmk #fish
+    - p5mu_febWXg #bears
+  twitch:
+    # - starcraft
+  rate: 120000
