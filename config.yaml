@@ -3,7 +3,10 @@ newrelic:
   refreshrate: 10000
 
 gitlab:
-  groupId: 107
+  groupIds: 
+    - 107
+    - 105
+    - 338
   refreshrate: 10000
 
 slideshow:
