@@ -7,6 +7,7 @@ gitlab:
     - 107
     - 105
     - 338
+    - 388
   refreshRate: 300000
 
 slideshow:
